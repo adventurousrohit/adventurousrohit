@@ -44,11 +44,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a broad r
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=TeX&layout=compact)
-
 
 
 ## 📫 Connect with Me
