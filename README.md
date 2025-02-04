@@ -48,8 +48,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a broad r
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=0077B5)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/rohit-gupta-06b23411b/))
-[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=D14836)](mailto:rohitguptajaipur1996@gmail.com)
+[![LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/rohit-gupta-06b23411b/))
+[![Email](mailto:rohitguptajaipur1996@gmail.com)
 
 Thanks for visiting my profile. Feel free to reach out if you want to collaborate on any projects or just have a chat!
 
