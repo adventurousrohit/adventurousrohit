@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a broad r
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
+![FastApi](https://img.shields.io/badge/-fastapi-000?style=flat&logo=fastapi)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
